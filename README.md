@@ -2,7 +2,8 @@
 
 ## Online Tools
 
- - [iCyberchef](https://gchq.github.io/CyberChef/) (Transform data from/to many types)
+ - [iCyberchef](https://gchq.github.io/CyberChef) Transform data from/to many types.
+ - [chisel](https://github.com/jpillora/chisel) Port forwarding.
 
 ## Payloads
 
