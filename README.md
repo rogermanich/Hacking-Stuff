@@ -8,3 +8,4 @@
 ## Payloads
 
  - [PayloadsAlltheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) Vademecum of payloads.
+ -[GTFobins](https://gtfobins.github.io/) Linux stuff for priv scalation
