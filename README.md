@@ -21,3 +21,5 @@
 - [Another CTF RSA Tool](https://github.com/ius/rsatool).
 - [RSA Theory](https://muirlandoracle.co.uk/2020/01/29/rsa-encryption).
 - [how https works](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
+- [Diffie Helman Video](https://www.youtube.com/watch?v=NmM9HA2MQGI).
+- [AES video](https://www.youtube.com/watch?v=O4xNJsjtN6E).
