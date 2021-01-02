@@ -10,6 +10,10 @@
 
  - [PayloadsAlltheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) Vademecum of payloads.
  -[GTFobins](https://gtfobins.github.io/) Linux stuff for priv scalation
+ 
+ ## Static binaries
+ 
+ - [Static binaries linux](https://github.com/andrew-d/static-binaries).
 
 ## Custom shells
 - [Oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) Custom zsh shell
