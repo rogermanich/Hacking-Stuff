@@ -15,8 +15,9 @@
  
  - [Static binaries linux](https://github.com/andrew-d/static-binaries).
 
-## Custom shells
+## shells
 - [Oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) Custom zsh shell
+- [upgrade tty shells](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys).
 ### thems for oh my zsh
 - [powerline10k](https://github.com/romkatv/powerlevel10k) awsome theme
 
