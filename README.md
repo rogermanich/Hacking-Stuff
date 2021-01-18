@@ -10,6 +10,7 @@
 
  - [PayloadsAlltheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) Vademecum of payloads.
  -[GTFobins](https://gtfobins.github.io/) Linux stuff for priv scalation
+ - [Nishang](https://github.com/samratashok/nishang). Scripts for initial access and Privilege scalation
  
  ## Static binaries
  
