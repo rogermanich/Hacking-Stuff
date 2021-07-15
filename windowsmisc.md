@@ -3,10 +3,10 @@
 ## Enumeration
 
 ### #1 Getting user history
-```Powershell
+```bat
 type C:\Users\<user>\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadline\ConsoleHost_history.txt
 ```
-```properties
+```bat
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 git
 wsl -l -v
